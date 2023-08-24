@@ -1,0 +1,10 @@
+To run the app, follow below steps
+
+1. Create app.env file
+2. Add configuration varialbes 
+APP_PORT
+JWT_SECRET
+DATABASE_NAME
+MONGODB_URL
+3. To run app use below command
+make run
